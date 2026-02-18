@@ -21,7 +21,7 @@ Repo: https://github.com/daniel-e-alarcon/ai-data-dashboard
 
 ## Technical Focus
 
-Retrieval-augmented generation, embedding-based retrieval, evaluation dataset design, answer grounding, failure taxonomies, and practical ML diagnostics.
+Retrieval-augmented generation, evaluation design, answer grounding, failure taxonomies, and ML diagnostics.
 
 ## Tooling
 
