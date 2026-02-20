@@ -1,6 +1,6 @@
 ## Daniel E. Alarcon, PhD
 
-**Applied LLM Systems • Retrieval & Evaluation**
+**Applied AI/LLM Systems • Retrieval & Evaluation**
 
 **Sofia, Bulgaria • Open to remote roles**
 
